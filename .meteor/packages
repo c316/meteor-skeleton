@@ -8,3 +8,10 @@ meteor-platform
 skeleton:skeleton
 iron:router
 accounts-password
+audit-argument-checks
+browser-policy
+ongoworks:security
+alanning:roles
+aldeed:autoform
+aldeed:collection2
+sacha:spin

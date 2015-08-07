@@ -5,11 +5,31 @@ Meteor Skeleton App
 
 ## Packages
 
+For basic layout and simple CSS - 
 skeleton:skeleton
 
+For Routing - 
 iron:router
 
+For accounts - 
 accounts-password
+alanning:roles
+
+For security - 
+audit-argument-checks
+browser-policy
+ongoworks:security 
+
+For Forms - 
+aldeed:autoform
+aldeed:simple-schema
+aldeed:collection2
+
+For Time - 
+momentjs:moment
+
+For Loading - 
+sacha:spin
 
 ## Pages
 

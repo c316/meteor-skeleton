@@ -1,3 +1,7 @@
+Router.configure({
+    loadingTemplate: 'LoadingTemplate'
+});
+
 Router.route('/', function () {
     this.render('Home');
 });
