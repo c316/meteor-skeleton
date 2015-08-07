@@ -6,12 +6,16 @@ Meteor Skeleton App
 ## Packages
 
 skeleton:skeleton
+
 iron:router
+
 accounts-password
 
 ## Pages
 
 Home
+
 Login
+
 Signup
 
