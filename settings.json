@@ -1,5 +1,18 @@
 {
   "public": {
-
+    "bcc_address": "",
+    "org_city": "Topeka",
+    "contact_address": "info@trashmountain.com",
+    "org_ein": "26-4775012",
+    "org_homepage_url": "https://trashmountain.com",
+    "org_is_501c3": true,
+    "org_name": "Trash Mountain Project",
+    "org_phone": "785-246-6845",
+    "org_state": "Kansas",
+    "org_state_short": "KS",
+    "org_street_address": "1555 NW Gage Blvd.",
+    "org_zip": "66618",
+    "support_address": "support@trashmountain.com",
+    "URL": "https://app.trashmountain.com"
   }
 }

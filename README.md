@@ -12,17 +12,18 @@ For Routing -
 iron:router
 
 For accounts - 
-accounts-password
-alanning:roles
+accounts-password,
+alanning:roles,
+useraccounts:unstyled
 
 For security - 
-audit-argument-checks
-browser-policy
+audit-argument-checks,
+browser-policy,
 ongoworks:security 
 
 For Forms - 
-aldeed:autoform
-aldeed:simple-schema
+aldeed:autoform,
+aldeed:simple-schema,
 aldeed:collection2
 
 For Time - 
@@ -35,7 +36,4 @@ sacha:spin
 
 Home
 
-Login
-
-Signup
-
+Login/Register
