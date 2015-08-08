@@ -1,0 +1,27 @@
+.loginForm {
+    width: 245px;
+    position: absolute;
+    top: 37px;
+    z-index: 1;
+    background-color: #fff;
+    border-left: 2px solid #e0e0e0;
+    border-right: 2px solid #e0e0e0;
+    border-bottom: 2px solid #e0e0e0;
+    border-top: 2px solid #e0e0e0;
+    display: block;
+}
+
+.at-form {
+    margin: 10px;
+}
+
+.account-buttons {
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+
+.unstyled-link {
+    text-decoration: none;
+    color: #fff;
+}

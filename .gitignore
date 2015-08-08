@@ -4,3 +4,4 @@ bundle.tar.gz
 config/
 npm-debug.log
 webdriver_error.png
+settings.json

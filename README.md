@@ -32,6 +32,9 @@ momentjs:moment
 For Loading - 
 sacha:spin
 
+For Email -
+email
+
 ## Pages
 
 Home

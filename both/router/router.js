@@ -1,16 +1,21 @@
 Router.configure({
-    layoutTemplate: 'MasterLayout',
-    loadingTemplate: 'LoadingTemplate'
+  layoutTemplate: 'MasterLayout',
+  loadingTemplate: 'LoadingTemplate'
+});
+
+Router.plugin('ensureSignedIn', {
+  except: ['home', 'signup', 'enrollAccount', 'forgotPwd', 'resetPwd', 'login']
 });
 
 Router.route('/', function () {
-    this.render('Home');
+  this.render('Home');
+}, {
+  name: 'home'
 });
 
-Router.route('/login', function () {
-    this.render('Login');
-});
 
 Router.route('/signup', function () {
-    this.render('Signup');
+  this.render('Signup');
+}, {
+  name: 'signup'
 });
